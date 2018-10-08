@@ -130,7 +130,6 @@ class View:
 
         return self
 
-
     def share(self, dictionary):
         """Shares data to all templates.    
 
